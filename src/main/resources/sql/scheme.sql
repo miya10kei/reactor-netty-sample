@@ -1,0 +1,4 @@
+CREATE TABLE user(
+    id IDENTITY PRIMARY KEY ,
+    name VARCHAR(255)
+)
